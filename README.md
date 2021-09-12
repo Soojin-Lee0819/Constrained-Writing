@@ -1,1 +1,1 @@
-# Alphabet Numbers and Patterns
+# Alphabets, Numbers, and Patterns
