@@ -1,4 +1,4 @@
-# Alphabets, Numbers, and Patterns
+# Convert English to Korean Using Numbers
 
 [View Project](https://soojin-lee0819.github.io/Constrained-Writing/)
 
