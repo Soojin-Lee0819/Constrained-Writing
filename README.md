@@ -2,4 +2,4 @@
 
 [View Project](https://soojin-lee0819.github.io/Constrained-Writing/)
 
-![](alphabetsnumbersandpatterns.png)
+![](alphabetsnumbersandpatterns.png width=100)
