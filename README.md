@@ -1,8 +1,8 @@
 # Convert English to Korean Using Numbers
 
-For WEEK 1, I explored differnet constrained writing technqiues - a literary technique in which writer is bound by some condition that forbids certain things or imposes a pattern - such as snowbal, lipogram, prisoner's constraint, palindromes, univocalism, and mathew's algorithm. 
+For WEEK 1, in class we have explored differnet constrained writing technqiues - a literary technique in which writer is bound by some condition that forbids certain things or imposes a pattern. Some examples we looked at are the snowbal, lipogram, prisoner's constraint, palindromes, univocalism, and mathew's algorithm technqiques. 
 
-During ideation stage, I decided to invent writing techniques that involves English and Korean. As I read and write Korean and English fluently, I am familiar with both English Roman Alphabet and Korean Hangeul Alphabet. Although English and Korean are two very different language with unique writing system, I wanted to challenge by inventing a creative technique that converts English text to Korean text.
+I wanted to invent a writing technique that involves English and Korean. As I read and write Korean and English fluently, I am familiar with both English Roman Alphabet and Korean Hangeul Alphabet. Although English and Korean are two very different language with unique writing system, I wanted to challenge by inventing a creative technique that converts English text to Korean text.
 
 Here are some of the ideas and considerations I had:
 
