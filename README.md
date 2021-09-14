@@ -22,15 +22,9 @@ Here are some thoughts and considerations I had as I was developing a system:
 
 Considereing these, I developed a technique that uses number to convert the Text written in English Roman alphabets to Korean Hangeul Text.
 
-View this project below:
 
 [Click to View the Project](https://soojin-lee0819.github.io/Constrained-Writing/)
 
 ![](alphabetsnumbersandpatterns.png)
 
-
-The converted Korean Text is this:
-
-
-
-Although it is readable, it is a text that doesn't make logical sense. However, it was still fascinating to see how English alphabets can be converted to Korean alphabets and generate new meaning. 
+Since this is merely a conversion of Roman Alphabets to Hangeul Alphabets with some patterns and rules, although the final text in Korean is legible, it is not intelligable. Regardless, it was fascinating to see how, the two very different language systems - English Roman alphabets and Korean Hangeul alphabets - can be converted to one another. 
