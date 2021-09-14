@@ -18,14 +18,19 @@ Here are some thoughts and considerations I had as I was developing a system:
 ![](images/block.jpg)
 
 
-4) There are punctuations that are used specifically used for English text such as "apostrophe".
+4) "apostrophe" is used specifically for English but is never used in Korean.
 
-Considereing these, I have developed a technique where any English letter can be converted to Korean using numbers.
+Considereing these, I developed a technique that uses number to convert the Text written in English Roman alphabets to Korean Hangeul Text.
 
-View this project below to understanad how the system works. 
+View this project below:
 
-[View Project](https://soojin-lee0819.github.io/Constrained-Writing/)
+[Click to View the Project](https://soojin-lee0819.github.io/Constrained-Writing/)
 
 ![](alphabetsnumbersandpatterns.png)
 
-The end result doesn't make any sense in Korean. Although readable, it is a text that doesn't make logical sense. However, it was still fascinating to see how English alphabets can be converted to Korean alphabets and generate new meaning. 
+
+The converted Korean Text is this:
+
+
+
+Although it is readable, it is a text that doesn't make logical sense. However, it was still fascinating to see how English alphabets can be converted to Korean alphabets and generate new meaning. 
