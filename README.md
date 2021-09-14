@@ -13,7 +13,11 @@ Here are some thoughts and considerations I had as I was developing a system:
 1) English has upper-and lower-case system - Korean doesn't.
 2) Both English and Korean are written/read left to right.
 3) Korean letters are written in syllable blocks.
+
+
 ![](images/block.jpg)
+
+
 4) There are punctuations that are used specifically used for English text such as "apostrophe".
 
 Considereing these, I have developed a technique where any English letter can be converted to Korean using numbers.
