@@ -27,4 +27,6 @@ Considereing these, I developed a technique that uses number to convert the Text
 
 ![](alphabetsnumbersandpatterns.png)
 
+### Evaluation & Reflection
+
 Since this is merely a conversion of Roman Alphabets to Hangeul Alphabets with some patterns and rules, although the final text in Korean is legible, it is not intelligable. Regardless, it was fascinating to see how, the two very different language systems - English Roman alphabets and Korean Hangeul alphabets - can be converted to one another. 
