@@ -2,13 +2,17 @@
 
 For WEEK 1, in class we have explored differnet constrained writing technqiues - a literary technique in which writer is bound by some condition that forbids certain things or imposes a pattern. Some examples we looked at are the snowbal, lipogram, prisoner's constraint, palindromes, univocalism, and mathew's algorithm technqiques. 
 
-I wanted to invent a writing technique that involves English and Korean. As I read and write Korean and English fluently, I am familiar with both English Roman Alphabet and Korean Hangeul Alphabet. Although English and Korean are two very different language with unique writing system, I wanted to challenge by inventing a creative technique that converts English text to Korean text.
+As I am fluent in Englisha and Korean, I wanted to invent a constrained writing technique that involves English and Korean. I wanted to challenge coming up with a creative technique that converts English Roman Alphabets to Korean Hanguel Alphabets. 
 
-Here are some of the ideas and considerations I had:
+Here are some thoughts and considerations I had as I was developing a system:
 
-1) English has upper-and lower-case system - Korean doesn't
-2) English alphabets are written linear from left to right, while Korean is in block system. 
-3) There are punctuations that are used specifically used for English text such as "apostrophe".
+1) English has upper-and lower-case system - Korean doesn't.
+2) Both English and Korean are written/read left to right.
+3) Korean letters are written in syllable blocks.
+![](block.jpg)
+
+
+4) There are punctuations that are used specifically used for English text such as "apostrophe".
 
 Considereing these, I have developed a technique where any English letter can be converted to Korean using numbers.
 
